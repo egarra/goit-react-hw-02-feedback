@@ -18,6 +18,7 @@ export const Item = styled.li `
 
 export const Span = styled.span `
     font-size: 20px;
+    padding: 0 10px;
     padding-bottom: 10px;
     padding-top: 5px;
     :nth-child(odd) {
